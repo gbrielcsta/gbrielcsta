@@ -8,6 +8,11 @@
 
 <h3>GitHub Stats:</h3> 
 
+<a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gbrielcsta&layout=compact" />
+</a>
+
+
 <h3>Follow me:</h3> 
 
 <div align="left">
