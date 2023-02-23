@@ -6,7 +6,7 @@
 
 - 🛩️ Mechanical Engineering Student focused on computational aerodynamics and flight mechanics
 
-<h3>GitHUb Stats:</h3> 
+<h3>GitHub Stats:</h3> 
 
 <h3>Follow me:</h3> 
 
