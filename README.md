@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
 
-  <a href="https://www.instagram.com/gbrielcsta/" alt="Instagram">
+  <a href="https://www.twitch.tv/gaael1/" alt="Instagram">
     <img src="https://img.shields.io/badge/-Twitch-blue?style=for-the-badge&logo=Twitch&logoColor=FFF"/>
   </a>
 </div>
