@@ -18,4 +18,8 @@
   <a href="https://www.linkedin.com/in/gbrielcsta" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
+
+  <a href="https://www.instagram.com/gbrielcsta/" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Twitch-blue?style=for-the-badge&logo=Twitch&logoColor=FFF"/>
+  </a>
 </div>
