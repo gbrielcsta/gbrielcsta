@@ -12,10 +12,10 @@
 
 <div align="left">
   <a href="https://www.instagram.com/gbrielcsta/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Instagram-ff3a5e?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Instagram-blue?style=for-the-badge&logo=Instagram&logoColor=FFF"/>
   </a>
   
   <a href="https://www.linkedin.com/in/gbrielcsta" alt="Linkedin">
-    <img src="https://img.shields.io/badge/-Linkedin-ff3a5e?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
+    <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
 </div>
