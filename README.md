@@ -4,7 +4,7 @@
 <h2 align="left">Fala comigo my friend?!</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbrielcsta&color=yellow" alt="Profile views" /> </p>
 
-- 🛩️ Mechanical Engineering Student focused on computational aerodynamics and flight mechanics
+- Mechanical Engineering Student focused on computational aerodynamics and flight mechanics 🛩️
 
 <h3>GitHub Stats:</h3> 
 
