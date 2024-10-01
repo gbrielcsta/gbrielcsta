@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://github.com/gbrielcsta/gbrielcsta/blob/main/readme.svg"/>
+<img align="right" height="540em" src="https://github.com/gbrielcsta/gbrielcsta/blob/main/readme.svg"/>
 <h2 align="left">Hi! I'm Gabriel Costa</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbrielcsta&color=blue" alt="Profile views" /> </p>
 
