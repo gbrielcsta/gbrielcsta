@@ -1,8 +1,6 @@
-
-
-<img align="right" height="590em" src="https://github.com/gbrielcsta/gbrielcsta/issues/2#issue-2558109324"/>
+<img align="right" height="590em" src="https://github.com/gbrielcsta/gbrielcsta/blob/main/readme.svg"/>
 <h2 align="left">Hi! I'm Gabriel Costa</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbrielcsta&color=yellow" alt="Profile views" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gbrielcsta&color=blue" alt="Profile views" /> </p>
 
 - Mechanical Engineering student focused on computational aerodynamics and flight mechanics 🛩️
 
@@ -23,8 +21,5 @@
   <a href="https://www.linkedin.com/in/gbrielcsta" alt="Linkedin">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=FFF"/>
   </a>
-
-  <a href="https://www.twitch.tv/gbrielcsta/" alt="Instagram">
-    <img src="https://img.shields.io/badge/-Twitch-blue?style=for-the-badge&logo=Twitch&logoColor=FFF"/>
-  </a>
+  
 </div>
