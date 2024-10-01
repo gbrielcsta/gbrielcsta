@@ -1,6 +1,6 @@
 
 
-<img align="right" height="590em" src="(https://github.com/user-attachments/assets/219d6c06-0830-47d2-8cce-61cfb3233602)"/>
+<img align="right" height="590em" src="https://github.com/gbrielcsta/gbrielcsta/issues/2#issue-2558109324"/>
 <h2 align="left">Hi! I'm Gabriel Costa</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbrielcsta&color=yellow" alt="Profile views" /> </p>
 
