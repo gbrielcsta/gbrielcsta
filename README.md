@@ -4,6 +4,8 @@
 
 - Mechanical Engineering student focused on computational aerodynamics and flight mechanics 🛩️
 
+- gbrielcsta.github.io/portfolio
+
 <h3>GitHub Stats:</h3> 
 
 <a href="https://github.com/gbrielcsta">
