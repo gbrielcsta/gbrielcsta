@@ -1,10 +1,8 @@
 <img align="right" height="540em" src="https://github.com/gbrielcsta/gbrielcsta/blob/main/readme.svg"/>
-<h2 align="left">Hi! I'm Gabriel Costa</h2>
+<h2 align="left">Hi! I'm Gabriel Costa - gbrielcsta.github.io/portfolio </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gbrielcsta&color=blue" alt="Profile views" /> </p>
 
 - Mechanical Engineering student focused on computational aerodynamics and flight mechanics 🛩️
-
-- gbrielcsta.github.io/portfolio
 
 <h3>GitHub Stats:</h3> 
 
