@@ -6,10 +6,6 @@
   <a href="https://gbrielcsta.github.io/portfolio">🌐 Portfolio</a>
 </p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=gbrielcsta&color=blue" alt="Profile views" />
-</p>
-
 Mechanical Engineer | CAE | CFD | FEA | NVH
 
 Mechanical Engineer focused on Computer-Aided Engineering (CAE), with experience in numerical simulations, structural analysis, and Noise, Vibration and Harshness (NVH) in the automotive industry.
